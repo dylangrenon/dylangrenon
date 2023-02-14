@@ -1,10 +1,21 @@
-### Hi there 👋
+### Hey 👋 
+---
 
-I’m currently learning
+<div id="about me">
+  <p>
+      Dylan Grenon
+      Applications Analyst @ UVM Health Network <br>
+      B.S. Computer Science @ SUNY Plattsburgh <br>
+  </p>
+</div>
 
-[![dylangrenon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylangrenon)](https://github.com/dylangrenon/github-readme-stats)
+### Skills:
 
 
-![]https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/5Lmn42BCOy99RaGRP7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/computer-code-html-5Lmn42BCOy99RaGRP7">via GIPHY</a></p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/dylangrenon/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
