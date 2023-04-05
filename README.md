@@ -3,13 +3,12 @@
 
 <div id="about me">
   <p>
-      Dylan Grenon
+      Dylan Grenon <br>
       Applications Analyst @ UVM Health Network <br>
       B.S. Computer Science @ SUNY Plattsburgh <br>
   </p>
 </div>
 
-### Skills:
 
 
 
