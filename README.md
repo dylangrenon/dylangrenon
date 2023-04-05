@@ -1,4 +1,4 @@
-### Hey 👋  *WIP*
+### Hey 👋 
 ---
 
 <div id="about me">
